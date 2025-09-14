@@ -17,7 +17,8 @@ Program ini adalah Simulasi sederhana untuk menambahkan aset dan memperlihatkan 
    - Nama dari aset (contohnya: BTC,ETH,BRI)
    - Jumlah dari aset (contohnya: 1,2,3,4.....)
    - Harga dari aset (contohnya: 100,200,300,....)
-4. ((2)Lihat aset) ini berfungsi untuk melihat atau melihat aset yang telah ditambahkan sebelumnya.
+4. ((2)Lihat aset) ini berfungsi untuk  melihat aset yang telah ditambahkan sebelumnya.
+   - (Aset tidak akan bisa dilihat sebelum di tambahkan)
 5. (End) artinya program telah selesai
 
 # HASIL DARI OUTPUT
