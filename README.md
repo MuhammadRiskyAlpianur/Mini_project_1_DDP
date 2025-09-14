@@ -1,8 +1,6 @@
 # Mini_project_1_DDP
-Nama  : Muhammad Risky Alpianur
-
-NIM   : 2509116101
-
-kelas : C
+MUHAMMAD RISKY ALPIANUR | 2509116101 | SISTEM INFORMASI C 2025
 
 Tema  : Daftar Portofolio Treding
+
+# FLOWCHART
