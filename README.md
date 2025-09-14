@@ -3,10 +3,6 @@ MUHAMMAD RISKY ALPIANUR | 2509116101 | SISTEM INFORMASI C 2025
 
 Tema  : Daftar Portofolio Treding
 
-# PENJELASAN SINGKAT
-Program ini adalah Simulasi sederhana untuk menambahkan aset dan memperlihatkan aset.
-
-
 # FLOWCHART
 
 <img width="817" height="572" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/40b2ce23-e56e-4a7d-916c-60e66d5d608c" />
