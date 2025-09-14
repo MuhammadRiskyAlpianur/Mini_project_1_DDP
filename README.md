@@ -13,6 +13,8 @@ Program ini adalah Simulasi sederhana untuk menambahkan aset dan memperlihatkan 
 # PENJELASAN FLOWCHART
 1. Dimulai dari (start) ini berfungsi untuk memulai program.
 2. (pilih menu 1-2) ini berfungsi untuk memilih perintah atau program yang ingin dijalankan.
+   - (Perintah harus sesuai urutan jika tidak sesuai urutan maka akan valid)
+   - (jika lebih dari perintah lebih atau kurang dari(pilihan menu 1-2) Maka akan Valid) 
 3. ((1)Tambahkan Aset) ini berfungsi untuk menentukan :
    - Nama dari aset (contohnya: BTC,ETH,BRI)
    - Jumlah dari aset (contohnya: 1,2,3,4.....)
@@ -22,4 +24,5 @@ Program ini adalah Simulasi sederhana untuk menambahkan aset dan memperlihatkan 
 5. (End) artinya program telah selesai
 
 # HASIL DARI OUTPUT
-<img width="1366" height="768" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/8986ebfa-3f9c-4e90-a8ae-27b9a6aae34c" />
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/f955e603-7807-4bde-80a3-ecae9daa558e" />
+
