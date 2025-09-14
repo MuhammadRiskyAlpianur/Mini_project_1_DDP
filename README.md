@@ -30,7 +30,8 @@ ini berfungsi untuk  melihat aset yang telah ditambahkan sebelumnya.
 
 jika program Daftar Portofolio trading ini dijalankan maka yang pertama akan keluar adalah Menu utama yang terdiri dari 2 pilihan. Pilihan tersebut ada:
 
-<img width="481" height="93" alt="Screenshot 2025-09-13 235433" src="https://github.com/user-attachments/assets/19407c0b-f23d-4e55-8dc5-5adba2d88268" />
+<img width="372" height="68" alt="Screenshot 2025-09-14 003944" src="https://github.com/user-attachments/assets/9607020c-db63-4799-8a06-ca23f1430075" />
+
 
 # Tambahakan aset
 program akan meminta kamu untuk memasukkan nama aset, misalnya nama coin crypto (contoh: Bitcoin, Ethereum) atau saham (contoh: BBRI, TLKM). Tujuannya supaya data aset baru bisa dicatat ke dalam portofolio.
